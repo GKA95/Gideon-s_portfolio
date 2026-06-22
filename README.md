@@ -80,5 +80,3 @@ Business Intelligence • Dashboard Development • KPI Analysis • Data Storyt
 
 This project demonstrates the ability to transform raw survey data into executive-level insights through interactive dashboards, supporting data-driven decision-making and workforce trend analysis.
 
-
-This project demonstrates how data-driven forecasting techniques can improve energy planning, support smarter electricity distribution, and contribute to more efficient and sustainable power systems.
