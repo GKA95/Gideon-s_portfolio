@@ -43,6 +43,8 @@ Machine Learning • Time-Series Forecasting • Data Analytics • Energy Analy
 
 ### Impact
 
+This project demonstrates how data-driven forecasting techniques can improve energy planning, support smarter electricity distribution, and contribute to more efficient and sustainable power systems.
+
 # [Project 3: Data Professional Survey Analysis Dashboard](https://drive.google.com/drive/u/0/folders/1lVFgUnr4SA64mDrRtqAeK2OAA4vebtyf)
 
 ### Overview
